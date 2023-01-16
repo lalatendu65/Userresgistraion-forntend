@@ -1,0 +1,33 @@
+.resgister {
+    width: 400px;
+    background: #fff;
+    border: 1 px solid #2673e7;
+
+    border-radius: 8px;
+    padding: 1rem;
+    align-items: center;
+    text-align: center;
+}
+
+.resgister>input {
+    border-radius: 8px;
+    border: 2px solid #0f63e1;
+    outline: none;
+    color: #1d2129;
+    margin: 0.5rem;
+    padding: 0.5rem 0.75rem;
+    width: 100%;
+    font-size: 1rem;
+}
+
+.btn {
+    background: #1877f2;
+    border: 1px sloid #1877f2;
+    color: #fff;
+    font-size: 1.25rem;
+    padding: 0.5rem;
+    margin: 0.5rem;
+    border-radius: 8px;
+    outline: none;
+    ;
+}
